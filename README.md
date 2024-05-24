@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [VOUS](https://github.com/VaishiG/VOUS)
 
-- 👨‍💻 All of my projects are available at (https://github.com/muskan42/)
+- 👨‍💻 All of my projects are available at https://github.com/muskan42/
 
 - 💬 Ask me about **Java, C, C++, HTML, CSS, MySQL, PHP, JavaScript, Open-Source**
 
