@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/muskan42/
 
-- 💬 Ask me about **Java, C, C++, HTML, CSS, MySQL, PHP, JavaScript, Open-Source**
+- 💬 Ask me about **Open-Source and Web**
 
 - 📫 How to reach me **muskanasthana22@gmail.com**
 
