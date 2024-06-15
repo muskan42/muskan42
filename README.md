@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **muskanasthana22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1M1v1YrxY5guozef9PJC3IrRrJvD79Ezg?usp=sharing](https://drive.google.com/drive/folders/1M1v1YrxY5guozef9PJC3IrRrJvD79Ezg?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/drive/folders/1M1v1YrxY5guozef9PJC3IrRrJvD79Ezg?usp=sharing](https://www.linkedin.com/in/muskan-asthana/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
