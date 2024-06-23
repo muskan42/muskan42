@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **muskanasthana22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1M1v1YrxY5guozef9PJC3IrRrJvD79Ezg?usp=sharing](https://www.linkedin.com/in/muskan-asthana/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muskan-asthana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muskan-asthana/" height="30" width="40" /></a>
