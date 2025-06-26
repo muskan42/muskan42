@@ -1,7 +1,5 @@
 # 💫 Muskan Asthana
 
----
-
 ### 🧠 About Me
 
 Hi! I'm Muskan – data-driven and passionate about using analytics to solve real-world problems. From optimizing operations with tech to building sustainable solutions, I have blended **tech with strategy** to drive business outcomes.
@@ -50,8 +48,8 @@ Hi! I'm Muskan – data-driven and passionate about using analytics to solve rea
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskan42&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan42&layout=compact&theme=radical)
 
 ---
 
