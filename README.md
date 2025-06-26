@@ -11,7 +11,6 @@ Hi! I'm Muskan – data-driven and passionate about using analytics to solve rea
 ---
 
 ## Tech Stack
-
 ### 👩‍💻 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
