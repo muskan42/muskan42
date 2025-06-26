@@ -1,6 +1,6 @@
 # Muskan Asthana
 
-## About Me
+### About Me
 
 Hi! I'm Muskan – data-driven and passionate about using analytics to solve real-world problems. From optimizing operations with tech to building sustainable solutions, I have blended **tech with strategy** to drive business outcomes.
 
