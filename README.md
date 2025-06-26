@@ -8,9 +8,9 @@ Hi! I'm Muskan – data-driven and passionate about using analytics to solve rea
 - 👩‍💻 Open Source Contributor @ GirlScript, SWOC
 - 🎙️ Content Writer | Debater | Marketer
 
----
 
 ## Tech Stack
+
 ### 👩‍💻 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -36,14 +36,12 @@ Hi! I'm Muskan – data-driven and passionate about using analytics to solve rea
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
 
----
 
 ### Achievements
 
 - 🏗️ Finalist – All India Women-Only Startup-a-thon 2025  
 - 💻 25+ Open Source PRs | Contributor @ GSSoC & SWOC  
 
----
 
 ### GitHub Stats
 
