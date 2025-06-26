@@ -1,6 +1,6 @@
 # Muskan Asthana
 
-### 🏗️ About Me
+### About Me
 
 Hi! I'm Muskan – data-driven and passionate about using analytics to solve real-world problems. From optimizing operations with tech to building sustainable solutions, I have blended **tech with strategy** to drive business outcomes.
 
@@ -10,7 +10,7 @@ Hi! I'm Muskan – data-driven and passionate about using analytics to solve rea
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### 👩‍💻 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -39,14 +39,14 @@ Hi! I'm Muskan – data-driven and passionate about using analytics to solve rea
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
-- 🧠 Finalist – All India Women-Only Startup-a-thon 2025  
+- 🏗️ Finalist – All India Women-Only Startup-a-thon 2025  
 - 💻 25+ Open Source PRs | Contributor @ GSSoC & SWOC  
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskan42&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan42&layout=compact&theme=radical)
